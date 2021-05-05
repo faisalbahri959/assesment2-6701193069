@@ -11,7 +11,7 @@
 	<div class="wrapper">
 		<div class="title">
 			Daftar Akun</div>
-		<form action="tabel_crud.php" method="post">
+		<form action="login.php" method="post">
 			<div class="field">
 				<input type="text" name="nama" required>		
 				<label>Nama Lengkap</label>
